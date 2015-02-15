@@ -1,2 +1,2 @@
 # datasciencecoursera
-mod 1 project
+Submission for first project
